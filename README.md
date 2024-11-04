@@ -38,7 +38,7 @@ To overcome these barriers, I’ve created an application that generates a Pimsl
 ### 👀 Looking for:
 - I am currently seeking a new position and am open to relocating and working in an office environment. 
 - My primary interests lie in test automation, backend/API development, and CI/CD development. 
-- I am enthusiastic about finding a role that is both challenging and fosters continued growth, allowing me to further develop my skills and contribute effectively to a dynamic team.
+- I am open to any position that is challenging and offers opportunities for continuous learning and growth.
 
 ---
 
