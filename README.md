@@ -17,7 +17,7 @@ I am actively expanding my career within the Greater Portland / Hillsboro ("Sili
 
 ### 🚀 Projects & Recent Work
 
-* **[talkliketv](https://github.com/dsaker)** – A personal web application project deployed on my local server.
+* **[talkliketv](https://tltv.dustybox.buzz/)** – A personal web application project deployed on my local server.
 * **Automated Job Search Agents** – Built custom Python automation scripts integrated with Google Gemini (Structured JSON extraction) and Discord Webhooks to track and evaluate regional infrastructure and tech roles across Oregon employers.
 * **Home Server Lab** – Managed self-hosted media and utility services using Raspberry Pi hardware running DietPi and Jellyfin.
 
