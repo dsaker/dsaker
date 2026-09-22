@@ -1,38 +1,31 @@
-<!--
-**dsaker/dsaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Dusty Saker 👋
 
-Here are some ideas to get you started:
+I'm a Data Center Operations & Infrastructure professional based in Oregon, currently working as a **Level 3 Data Center Technician with Amazon Web Services** in Boardman, OR. I bring a strong background in hardware break/fix, system administration, reliability engineering, and backend software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-👋 Hello! I'm **Dusty Saker**, a **Traveler ✈️ | Fullstack Developer 💻 | Entrepreneur** 🚀 based in the United States. <br /> <br />
-🔭 I am currently developing [TalkLikeTv](https://talkliketv.com), a language learning application designed to address limitations I’ve encountered in other popular language learning apps, such as Pimsleur, Babbel, and Duolingo. While these tools serve as strong foundational resources, I’ve found that they tend to plateau once reaching an intermediate level. Currently, I can understand French and Spanish well enough to follow audiobooks and read at a high level, but I still face challenges in expressing myself and comprehending native speakers during travel.<br /> <br />
-To overcome these barriers, I’ve created an application that generates a Pimsleur-like audio course from any file the user selects. Personally, I use subtitles from current TV shows from the countries I plan to visit. This approach has several benefits: it familiarizes me with contemporary slang, improves my understanding of spoken dialogue, and challenges me to express myself more naturally. Practicing with these audio files not only enhances comprehension of the shows but also provides an immersive, effective way to advance my language skills.
+I am actively expanding my career within the Greater Portland / Hillsboro ("Silicon Forest") tech corridor, focusing on data center infrastructure, hardware engineering, systems reliability, and backend development roles.
 
 ---
 
-### 🛠 Technologies:
-- **Backend**: Go, Java
-- **CI/CD**: K8s, Jenkins, GitHub Actions
-- **Cloud**: AWS, GCP
-- **Automation**: Selenium, Terraform, Ansible
+### 🛠️ Tech Stack & Skills
+
+* **Infrastructure & Hardware:** Data Center Operations, Server Hardware Break/Fix, Rack & Stack, Fiber/Cabling, Critical Facilities, Diagnostics & Troubleshooting
+* **Systems & Tools:** Linux, DietPi, Raspberry Pi, Home Server Infrastructure (Jellyfin), ServiceNow, Jira, SyncPro
+* **Languages & Development:** Go (Golang), Python, SQL
+* **Cloud & DevOps:** Google Cloud Platform (GCP), Docker, Automated Job Agents & Workflows
 
 ---
 
-### 👀 Looking for:
-- I am currently seeking a new position and am open to relocating and working in an office environment. 
-- My primary interests lie in test automation, backend/API development, and CI/CD development. 
-- I am open to any position that is challenging and offers opportunities for continuous learning and growth.
+### 🚀 Projects & Recent Work
+
+* **[talkliketv](https://github.com/dsaker)** – A personal web application project deployed on my local server.
+* **Automated Job Search Agents** – Built custom Python automation scripts integrated with Google Gemini (Structured JSON extraction) and Discord Webhooks to track and evaluate regional infrastructure and tech roles across Oregon employers.
+* **Home Server Lab** – Managed self-hosted media and utility services using Raspberry Pi hardware running DietPi and Jellyfin.
 
 ---
 
-### 📫 Let's Connect:
-Feel free to reach out for collaborations, partnerships, or consultations.
+### 📚 Beyond the Terminal
+
+* **Continuous Learning:** Actively studying Spanish, focusing on Mexican Spanish vocabulary, regional idioms, and conversational fluency.
+* **Outdoors & Reading:** Enjoy hiking Oregon trails (such as Mount Hood), practicing yoga, and reading contemporary fiction (including works by Isabel Allende and N.K. Jemisin).
+
+---
